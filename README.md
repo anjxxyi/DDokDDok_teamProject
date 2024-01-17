@@ -1,6 +1,5 @@
 # semi_ddok_homepage (똑똑 홈페이지)
 자취생을 위한 홈페이지
-http://im.21v.in:47521/
 
 <img src="https://github.com/YOUNGEUN100/semi_ddok_homepage/assets/121986519/96afa965-e5d2-4b17-ad20-fdb84f7f1dd9" width="500"/>
 
